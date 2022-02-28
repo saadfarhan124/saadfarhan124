@@ -6,14 +6,38 @@
 - 💻 I use daily **.py**, **.kt**, **.sql**, **.dart**, **.go**,
 - 📖 I am currently reading **Blood of Elves** by Andrzej Sapkowski
 - 💬 Talk to me about Witcher, Python, Comics & Games
-- <img srf="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> I write articles on Medium
+- I write articles on <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 - ⚡ Fun fact: I used to write super hero fan fics when I was a kid
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```python
+  saad = {
+    "pronouns": "He" | "Him",
+    "code" : ["Python", "Go", "Java", "Javascript"],
+    "askMeAbout" : ["tech", "app dev", "movies", "history"],
+    "technologies" : {
+        "backEnd" : ["Flask", "Fiber", "Springboot"],
+        "mobileApp" : ["Flutter", "React Native", "Android"],
+        "devOps" : ["Google Cloud", "Docker🐳", "Nginx"],
+        "databases" : ["mongo", "MySql", "Postgresql"],
+        "misc" : ["Firebase", "Socket.IO", "selenium", "Beautiful Soup", "Pandas"]
+    },
+    "architecture": ["Serverless Architecture", "Microservices", "Single page applications"],
+    "currentFocus" : "Integrating technology with trucking logistics"
+}
+```
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Writing native android code in Flutter](https://saadfarhan124.medium.com/writing-native-android-code-in-flutter-59c9843d3cd4)
 <!-- BLOG-POST-LIST:END -->
+
+## 𝗦𝘁𝗮𝘁𝘀
+![Saads's github stats](https://github-readme-stats.vercel.app/api?username=saadfarhan124&show_icons=true&theme=dracula)
+
+
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 <p>
@@ -30,8 +54,7 @@
 <a target="_blank"><img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a> 
 <a target="_blank"><img alt="Flask" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a> 
 <a target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a> 
-<a target="_blank"><img alt="Flask" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a> 
-<a target="_blank"><img alt="Flask" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a> 
+
   
 
 </p>
@@ -63,11 +86,11 @@
       <td>June 2020 - June 2021</td>
     </tr>
     <tr>
-      <td><b>Research Assistant at Szabist</b></td>
-      <td>Developed Alumni Portal using ASP.Net, JQuery, Javascript, HTML, CSS, AJAX.
-Built a landing page to visualize the data being gathered by different machines using MERN stack.
-Analyzed, visualized and applied different machine learning models on the said data to predict tool wear.
-General purpose programming to meet the team's requirements such as development of the team's progress website, landing pages for different industries to view their data
+          <td><b><a href="https://ncbc.szabist.edu.pk/">Research Assistant at Szabist</a></b></td>
+          <td>Developed Alumni Portal using ASP.Net, JQuery, Javascript, HTML, CSS, AJAX.</br>
+Built a landing page to visualize the data being gathered by different machines using MERN stack.</br>
+Analyzed, visualized and applied different machine learning models on the said data to predict tool wear.</br>
+General purpose programming to meet the team's requirements such as development of the team's progress website, landing pages for different industries to view their data</br>
 Managed and supervised different Final Year Projects.</td>
       <td>June 2019 - June 2020</td>
     </tr>
@@ -81,7 +104,7 @@ Managed and supervised different Final Year Projects.</td>
 
 <p align="center">
   <a href="https://www.saadfarhan.com/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:saadfarhan124@gmail.com"><img src="https://img.icons8.com/color/96/ffffff/spotify.png" alt="email"/></a>
+  <a href="mailto:saadfarhan124@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/saadfarhan124"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.facebook.com/SaadFarhan12"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/saadfarhan124/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
@@ -89,6 +112,19 @@ Managed and supervised different Final Year Projects.</td>
   <a href="https://open.spotify.com/user/313cqr34nsuatvt4vwra4uahjrvu?si=65eba33c0c61478a"><img src="https://img.icons8.com/color/96/ffffff/spotify.png" alt="spotify"/></a>
   <a href="https://stackoverflow.com/users/13034908/saad-farhan"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
+
+
+<!--STARTS_HERE_QUOTE_README-->
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+• <i>“Silencing ‘wrong’ ideas will eventually destroy our ability to discover the truth”— Lex Fridman   </i>
+<!--ENDS_HERE_QUOTE_README-->
+      
+      
+</br>
+</br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **saadfarhan124/saadfarhan124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
