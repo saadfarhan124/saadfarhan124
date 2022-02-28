@@ -1,9 +1,81 @@
 ### Hi there 👋
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+- 🏦 I'm a Product Engineer working as a CTO at CDL1000
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I use daily **.py**, **.kt**, **.sql**, **.dart**, **.go**,
+- 📖 I am currently reading **Blood of Elves** by Andrzej Sapkowski
+- 💬 Talk to me about Witcher, Python, Comics & Games
+- <img srf="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> I write articles on Medium
+- ⚡ Fun fact: I used to write super hero fan fics when I was a kid
+
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Writing native android code in Flutter](https://saadfarhan124.medium.com/writing-native-android-code-in-flutter-59c9843d3cd4)
 <!-- BLOG-POST-LIST:END -->
+
+<h1 align="center"> 🔧 Skills & Tools: </h1>
+<p>
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Dart" src="https://img.shields.io/badge/Dart-%2312100E.svg?logo=dart&style=for-the-badge&logoColor=ee0606"/></a> 
+<a target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a> 
+<a target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a> 
+<a target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a> 
+<a target="_blank"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a> 
+<a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a> 
+<a target="_blank"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a> 
+<a target="_blank"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a> 
+<a target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a> 
+<a target="_blank"><img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a> 
+<a target="_blank"><img alt="Flask" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a> 
+<a target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a> 
+<a target="_blank"><img alt="Flask" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a> 
+<a target="_blank"><img alt="Flask" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a> 
+  
+
+</p>
+
+<details>
+<summary><b> My Work Experience :point_right: </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://www.cdl1000.com/">Chief Technology Officer at CDL1000</a> </b></td>
+      <td>Development and maintenance of multiple products. Head of Product Engineering. Managing tech teams</td>
+      <td>August 2021 - Present</td>
+    </tr>
+  	<tr>
+      <td><b><a href="https://october-now.com/">Software Developer at OctoberNow</a> </b></td>
+      <td>Maintenance of multiple Flutter Apps, Development of Flutter plugins, API development using Spring boot</td>
+      <td>June 2021 - September 2021</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://xortox.com/">Software Engineer at Xortox</a> </b></td>
+      <td>Developed and maintained multiple platforms using technologies such as CodeIgniter, WordPress, React Native, React JS etc.</td>
+      <td>June 2020 - June 2021</td>
+    </tr>
+    <tr>
+      <td><b>Research Assistant at Szabist</b></td>
+      <td>Developed Alumni Portal using ASP.Net, JQuery, Javascript, HTML, CSS, AJAX.
+Built a landing page to visualize the data being gathered by different machines using MERN stack.
+Analyzed, visualized and applied different machine learning models on the said data to predict tool wear.
+General purpose programming to meet the team's requirements such as development of the team's progress website, landing pages for different industries to view their data
+Managed and supervised different Final Year Projects.</td>
+      <td>June 2019 - June 2020</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end work experience section -->
+
 
 ## Links
 
