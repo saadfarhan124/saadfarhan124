@@ -33,7 +33,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Writing native android code in Flutter](https://saadfarhan124.medium.com/writing-native-android-code-in-flutter-59c9843d3cd4)
 - [Building micro-services in Go : Part 1](https://saadfarhan124.medium.com/building-microservices-in-go-part-1-e7e58893bc5e)
-
+- [Building micro-services in Go : Part 2](https://saadfarhan124.medium.com/building-microservices-in-go-part-2-f9c6c535805c)
 <!-- BLOG-POST-LIST:END -->
 
 ## 𝗦𝘁𝗮𝘁𝘀
