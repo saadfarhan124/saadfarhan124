@@ -28,7 +28,7 @@
     "currentFocus" : "Integrating technology with trucking logistics"
 }
 ```
-## Blog
+## Blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [Writing native android code in Flutter](https://saadfarhan124.medium.com/writing-native-android-code-in-flutter-59c9843d3cd4)
