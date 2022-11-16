@@ -8,6 +8,7 @@
 - 💬 Talk to me about Witcher, Python, Comics & Games
 - I write articles on <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 - ⚡ Fun fact: I used to write super hero fan fics when I was a kid
+- [![Mentioned in Awesome Fiber](https://awesome.re/mentioned-badge.svg)](https://github.com/gofiber/awesome-fiber)  
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -34,6 +35,8 @@
 - [Writing native android code in Flutter](https://saadfarhan124.medium.com/writing-native-android-code-in-flutter-59c9843d3cd4)
 - [Building micro-services in Go : Part 1](https://saadfarhan124.medium.com/building-microservices-in-go-part-1-e7e58893bc5e)
 - [Building micro-services in Go : Part 2](https://saadfarhan124.medium.com/building-microservices-in-go-part-2-f9c6c535805c)
+- [Building micro-services in Go : Part 3](https://medium.com/@saadfarhan124/building-microservices-in-go-part-3-database-models-migrations-a4455121bb11)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 𝗦𝘁𝗮𝘁𝘀
