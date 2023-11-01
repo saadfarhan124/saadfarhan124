@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Product Engineer working as a CTO at CDL1000
+- 🏦 I'm a Software Engineer currently working at CDL1000
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.py**, **.kt**, **.sql**, **.dart**, **.go**,
 - 📖 I am currently reading **Blood of Elves** by Andrzej Sapkowski
@@ -15,11 +15,10 @@
 
 ```python
   saad = {
-    "pronouns": "He" | "Him",
-    "code" : ["Python", "Go", "Java", "Javascript"],
+    "code" : ["Python", "Go", "Flutter", "Dart", "Javascript"],
     "askMeAbout" : ["tech", "app dev", "movies", "history"],
     "technologies" : {
-        "backEnd" : ["Flask", "Fiber", "Springboot"],
+        "backEnd" : ["Flask", "Fiber", "FastAPI"],
         "mobileApp" : ["Flutter", "React Native", "Android"],
         "devOps" : ["Google Cloud", "Docker🐳", "Nginx"],
         "databases" : ["mongo", "MySql", "Postgresql"],
