@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Software Engineer currently working at CDL1000
+- 🏦 I'm a Software Engineer currently working at Gepeto
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.py**, **.kt**, **.sql**, **.dart**, **.go**,
 - 📖 I am currently reading **Blood of Elves** by Andrzej Sapkowski
